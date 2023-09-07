@@ -1,0 +1,154 @@
+2023-08-23 13:19:40 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 1.8.0_342 on DESKTOP-25L63E5 with PID 14756 (C:\Users\nitis\Downloads\restful\restful\build\classes\java\main started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-08-23 13:19:40 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-08-23 13:19:40 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-08-23 13:22:02 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 1.8.0_342 on DESKTOP-25L63E5 with PID 12392 (C:\Users\nitis\Downloads\restful\restful\build\classes\java\main started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-08-23 13:22:02 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-08-23 13:22:02 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-08-23 13:26:57 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 1.8.0_342 on DESKTOP-25L63E5 with PID 13908 (C:\Users\nitis\Downloads\restful\restful\build\classes\java\main started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-08-23 13:26:57 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-08-23 13:26:57 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-08-23 13:27:15 [main] INFO  restful.restful.RestfulApplication -
+                Started RestfulApplication in 18.279 seconds (JVM running for 19.856)
+2023-08-23 16:13:58 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 1.8.0_342 on DESKTOP-25L63E5 with PID 6600 (C:\Users\nitis\Downloads\restful\restful\build\classes\java\main started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-08-23 16:13:58 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-08-23 16:13:58 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-08-23 16:14:10 [main] INFO  restful.restful.RestfulApplication -
+                Started RestfulApplication in 13.119 seconds (JVM running for 14.285)
+2023-08-23 16:15:07 [http-nio-8080-exec-1] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeApi getEmployees()Arguments []
+2023-08-23 16:15:07 [http-nio-8080-exec-1] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeServiceImpl getEmployees()Arguments []
+2023-08-23 16:15:08 [http-nio-8080-exec-1] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.EmployeeServiceImpl getEmployees()Response [{"id":1,"firstname":"Ramesh","lastName":"Hudda","email":null},{"id":2,"firstname":"Suresh","lastName":"Hudda","email":null},{"id":3,"firstname":"Suresh","lastName":"Hudda","email":"email.com"},{"id":4,"firstname":"Nitish","lastName":"kumar","email":"Nitish@gmail.com"},{"id":5,"firstname":"Jh0n","lastName":"Dew","email":"John@gmail.com"}]
+2023-08-23 16:15:08 [http-nio-8080-exec-1] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.EmployeeApi getEmployees()Response [{"id":1,"firstname":"Ramesh","lastName":"Hudda","email":null},{"id":2,"firstname":"Suresh","lastName":"Hudda","email":null},{"id":3,"firstname":"Suresh","lastName":"Hudda","email":"email.com"},{"id":4,"firstname":"Nitish","lastName":"kumar","email":"Nitish@gmail.com"},{"id":5,"firstname":"Jh0n","lastName":"Dew","email":"John@gmail.com"}]
+2023-08-23 16:15:38 [http-nio-8080-exec-6] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeApi getEmployee()Arguments [3]
+2023-08-23 16:15:38 [http-nio-8080-exec-6] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeServiceImpl getEmployee()Arguments [3]
+2023-08-23 16:15:48 [http-nio-8080-exec-7] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeApi getEmployee()Arguments [5]
+2023-08-23 16:15:48 [http-nio-8080-exec-7] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeServiceImpl getEmployee()Arguments [5]
+2023-08-23 16:15:48 [http-nio-8080-exec-7] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.EmployeeServiceImpl getEmployee()Response {"id":5,"firstname":"Jh0n","lastName":"Dew","email":"John@gmail.com"}
+2023-08-23 16:15:48 [http-nio-8080-exec-7] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.EmployeeApi getEmployee()Response {"headers":{},"body":{"id":5,"firstname":"Jh0n","lastName":"Dew","email":"John@gmail.com"},"statusCode":"CREATED","statusCodeValue":201}
+2023-08-23 17:20:44 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 1.8.0_342 on DESKTOP-25L63E5 with PID 14116 (C:\Users\nitis\Downloads\restful\restful\build\classes\java\main started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-08-23 17:20:44 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-08-23 17:20:44 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-08-23 17:21:15 [main] INFO  restful.restful.RestfulApplication -
+                Started RestfulApplication in 34.025 seconds (JVM running for 36.609)
+2023-08-23 17:21:24 [http-nio-8080-exec-1] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeApi getEmployees()Arguments []
+2023-08-23 17:21:24 [http-nio-8080-exec-1] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeServiceImpl getEmployees()Arguments []
+2023-08-23 17:21:26 [http-nio-8080-exec-1] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.EmployeeServiceImpl getEmployees()Response [{"id":1,"firstname":"Ramesh","lastName":"Hudda","email":null},{"id":2,"firstname":"Suresh","lastName":"Hudda","email":null},{"id":3,"firstname":"Suresh","lastName":"Hudda","email":"email.com"},{"id":4,"firstname":"Nitish","lastName":"kumar","email":"Nitish@gmail.com"},{"id":5,"firstname":"Jh0n","lastName":"Dew","email":"John@gmail.com"}]
+2023-08-23 17:21:26 [http-nio-8080-exec-1] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.EmployeeApi getEmployees()Response [{"id":1,"firstname":"Ramesh","lastName":"Hudda","email":null},{"id":2,"firstname":"Suresh","lastName":"Hudda","email":null},{"id":3,"firstname":"Suresh","lastName":"Hudda","email":"email.com"},{"id":4,"firstname":"Nitish","lastName":"kumar","email":"Nitish@gmail.com"},{"id":5,"firstname":"Jh0n","lastName":"Dew","email":"John@gmail.com"}]
+2023-08-23 17:26:46 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 1.8.0_342 on DESKTOP-25L63E5 with PID 5124 (C:\Users\nitis\Downloads\restful\restful\build\classes\java\main started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-08-23 17:26:46 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-08-23 17:26:46 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-08-23 17:27:02 [main] INFO  restful.restful.RestfulApplication -
+                Started RestfulApplication in 16.408 seconds (JVM running for 17.843)
+2023-08-23 17:27:07 [http-nio-8080-exec-4] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeApi getEmployees()Arguments []
+2023-08-23 17:27:07 [http-nio-8080-exec-4] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeServiceImpl getEmployees()Arguments []
+2023-08-23 17:27:07 [http-nio-8080-exec-4] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.EmployeeServiceImpl getEmployees()Response [{"id":1,"firstname":"Ramesh","lastName":"Hudda","email":null},{"id":2,"firstname":"Suresh","lastName":"Hudda","email":null},{"id":3,"firstname":"Suresh","lastName":"Hudda","email":"email.com"},{"id":4,"firstname":"Nitish","lastName":"kumar","email":"Nitish@gmail.com"},{"id":5,"firstname":"Jh0n","lastName":"Dew","email":"John@gmail.com"}]
+2023-08-23 17:27:07 [http-nio-8080-exec-4] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.EmployeeApi getEmployees()Response [{"id":1,"firstname":"Ramesh","lastName":"Hudda","email":null},{"id":2,"firstname":"Suresh","lastName":"Hudda","email":null},{"id":3,"firstname":"Suresh","lastName":"Hudda","email":"email.com"},{"id":4,"firstname":"Nitish","lastName":"kumar","email":"Nitish@gmail.com"},{"id":5,"firstname":"Jh0n","lastName":"Dew","email":"John@gmail.com"}]
+2023-08-23 17:27:22 [http-nio-8080-exec-5] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeApi getEmployees()Arguments []
+2023-08-23 17:27:22 [http-nio-8080-exec-5] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeServiceImpl getEmployees()Arguments []
+2023-08-23 17:27:22 [http-nio-8080-exec-5] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.EmployeeServiceImpl getEmployees()Response [{"id":1,"firstname":"Ramesh","lastName":"Hudda","email":null},{"id":2,"firstname":"Suresh","lastName":"Hudda","email":null},{"id":3,"firstname":"Suresh","lastName":"Hudda","email":"email.com"},{"id":4,"firstname":"Nitish","lastName":"kumar","email":"Nitish@gmail.com"},{"id":5,"firstname":"Jh0n","lastName":"Dew","email":"John@gmail.com"}]
+2023-08-23 17:27:22 [http-nio-8080-exec-5] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.EmployeeApi getEmployees()Response [{"id":1,"firstname":"Ramesh","lastName":"Hudda","email":null},{"id":2,"firstname":"Suresh","lastName":"Hudda","email":null},{"id":3,"firstname":"Suresh","lastName":"Hudda","email":"email.com"},{"id":4,"firstname":"Nitish","lastName":"kumar","email":"Nitish@gmail.com"},{"id":5,"firstname":"Jh0n","lastName":"Dew","email":"John@gmail.com"}]
+2023-08-23 17:27:24 [http-nio-8080-exec-6] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeApi getEmployees()Arguments []
+2023-08-23 17:27:24 [http-nio-8080-exec-6] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeServiceImpl getEmployees()Arguments []
+2023-08-23 17:27:24 [http-nio-8080-exec-6] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.EmployeeServiceImpl getEmployees()Response [{"id":1,"firstname":"Ramesh","lastName":"Hudda","email":null},{"id":2,"firstname":"Suresh","lastName":"Hudda","email":null},{"id":3,"firstname":"Suresh","lastName":"Hudda","email":"email.com"},{"id":4,"firstname":"Nitish","lastName":"kumar","email":"Nitish@gmail.com"},{"id":5,"firstname":"Jh0n","lastName":"Dew","email":"John@gmail.com"}]
+2023-08-23 17:27:24 [http-nio-8080-exec-6] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.EmployeeApi getEmployees()Response [{"id":1,"firstname":"Ramesh","lastName":"Hudda","email":null},{"id":2,"firstname":"Suresh","lastName":"Hudda","email":null},{"id":3,"firstname":"Suresh","lastName":"Hudda","email":"email.com"},{"id":4,"firstname":"Nitish","lastName":"kumar","email":"Nitish@gmail.com"},{"id":5,"firstname":"Jh0n","lastName":"Dew","email":"John@gmail.com"}]
+2023-08-23 17:31:18 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 1.8.0_342 on DESKTOP-25L63E5 with PID 10164 (C:\Users\nitis\Downloads\restful\restful\build\classes\java\main started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-08-23 17:31:18 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-08-23 17:31:18 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-08-23 17:33:33 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 1.8.0_342 on DESKTOP-25L63E5 with PID 11312 (C:\Users\nitis\Downloads\restful\restful\build\classes\java\main started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-08-23 17:33:33 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-08-23 17:33:33 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-08-23 17:33:47 [main] INFO  restful.restful.RestfulApplication -
+                Started RestfulApplication in 14.742 seconds (JVM running for 16.029)
+2023-08-23 17:38:42 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 1.8.0_342 on DESKTOP-25L63E5 with PID 8592 (C:\Users\nitis\Downloads\restful\restful\build\classes\java\main started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-08-23 17:38:42 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-08-23 17:38:42 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-08-23 17:38:57 [main] INFO  restful.restful.RestfulApplication -
+                Started RestfulApplication in 16.009 seconds (JVM running for 17.496)
+2023-08-23 17:39:15 [http-nio-8080-exec-4] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeApi getEmployee()Arguments [3]
+2023-08-23 17:39:15 [http-nio-8080-exec-4] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeServiceImpl getEmployee()Arguments [3]
+2023-08-23 17:39:20 [http-nio-8080-exec-6] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeApi getEmployee()Arguments [4]
+2023-08-23 17:39:20 [http-nio-8080-exec-6] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeServiceImpl getEmployee()Arguments [4]
+2023-08-23 17:39:20 [http-nio-8080-exec-6] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.EmployeeServiceImpl getEmployee()Response {"id":4,"firstname":"Nitish","lastName":"kumar","email":"Nitish@gmail.com"}
+2023-08-23 17:39:20 [http-nio-8080-exec-6] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.EmployeeApi getEmployee()Response {"headers":{},"body":{"id":4,"firstname":"Nitish","lastName":"kumar","email":"Nitish@gmail.com"},"statusCodeValue":201,"statusCode":"CREATED"}
+2023-08-23 17:40:25 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 1.8.0_342 on DESKTOP-25L63E5 with PID 8504 (C:\Users\nitis\Downloads\restful\restful\build\classes\java\main started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-08-23 17:40:25 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-08-23 17:40:25 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-08-23 17:40:55 [main] INFO  restful.restful.RestfulApplication -
+                Started RestfulApplication in 31.324 seconds (JVM running for 33.721)
+2023-08-23 17:40:57 [http-nio-8080-exec-1] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeApi getEmployees()Arguments []
+2023-08-23 17:40:57 [http-nio-8080-exec-1] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeServiceImpl getEmployees()Arguments []
+2023-08-23 17:40:59 [http-nio-8080-exec-1] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.EmployeeServiceImpl getEmployees()Response [{"id":1,"firstname":"Ramesh","lastName":"Hudda","email":null},{"id":2,"firstname":"Suresh","lastName":"Hudda","email":null},{"id":3,"firstname":"Suresh","lastName":"Hudda","email":"email.com"},{"id":4,"firstname":"Nitish","lastName":"kumar","email":"Nitish@gmail.com"},{"id":5,"firstname":"Jh0n","lastName":"Dew","email":"John@gmail.com"}]
+2023-08-23 17:40:59 [http-nio-8080-exec-1] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.EmployeeApi getEmployees()Response [{"id":1,"firstname":"Ramesh","lastName":"Hudda","email":null},{"id":2,"firstname":"Suresh","lastName":"Hudda","email":null},{"id":3,"firstname":"Suresh","lastName":"Hudda","email":"email.com"},{"id":4,"firstname":"Nitish","lastName":"kumar","email":"Nitish@gmail.com"},{"id":5,"firstname":"Jh0n","lastName":"Dew","email":"John@gmail.com"}]
+2023-08-23 17:41:35 [http-nio-8080-exec-5] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeApi getEmployee()Arguments [4]
+2023-08-23 17:41:35 [http-nio-8080-exec-5] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeServiceImpl getEmployee()Arguments [4]
+2023-08-23 17:41:35 [http-nio-8080-exec-5] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.EmployeeServiceImpl getEmployee()Response {"id":4,"firstname":"Nitish","lastName":"kumar","email":"Nitish@gmail.com"}
+2023-08-23 17:41:35 [http-nio-8080-exec-5] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.EmployeeApi getEmployee()Response {"headers":{},"body":{"id":4,"firstname":"Nitish","lastName":"kumar","email":"Nitish@gmail.com"},"statusCode":"CREATED","statusCodeValue":201}

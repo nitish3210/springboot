@@ -1,0 +1,156 @@
+2023-09-05 11:53:02 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 1.8.0_342 on NITISH-PC with PID 4952 (C:\Users\nitis\Downloads\restful\restful\build\classes\java\main started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-09-05 11:53:02 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-09-05 11:53:02 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-09-05 11:53:12 [main] DEBUG restful.restful.filter.JwtAuthFilter -
+                Filter 'jwtAuthFilter' configured for use
+2023-09-05 11:53:15 [main] INFO  restful.restful.RestfulApplication -
+                Started RestfulApplication in 14.559 seconds (JVM running for 16.105)
+2023-09-05 14:31:01 [Test worker] INFO  r.r.service.UserInfoServiceTest -
+                Starting UserInfoServiceTest using Java 1.8.0_342 on NITISH-PC with PID 6664 (started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-09-05 14:31:01 [Test worker] DEBUG r.r.service.UserInfoServiceTest -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-09-05 14:31:01 [Test worker] INFO  r.r.service.UserInfoServiceTest -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-09-05 14:31:17 [Test worker] INFO  r.r.service.UserInfoServiceTest -
+                Started UserInfoServiceTest in 17.57 seconds (JVM running for 21.638)
+2023-09-05 14:32:08 [Test worker] INFO  r.r.service.UserInfoServiceTest -
+                Starting UserInfoServiceTest using Java 1.8.0_342 on NITISH-PC with PID 4160 (started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-09-05 14:32:08 [Test worker] DEBUG r.r.service.UserInfoServiceTest -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-09-05 14:32:08 [Test worker] INFO  r.r.service.UserInfoServiceTest -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-09-05 14:32:22 [Test worker] INFO  r.r.service.UserInfoServiceTest -
+                Started UserInfoServiceTest in 15.437 seconds (JVM running for 18.948)
+2023-09-05 15:01:13 [Test worker] INFO  r.r.service.UserInfoServiceTest -
+                Starting UserInfoServiceTest using Java 1.8.0_342 on NITISH-PC with PID 1944 (started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-09-05 15:01:13 [Test worker] DEBUG r.r.service.UserInfoServiceTest -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-09-05 15:01:13 [Test worker] INFO  r.r.service.UserInfoServiceTest -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-09-05 15:10:09 [Test worker] INFO  r.r.service.UserInfoServiceTest -
+                Starting UserInfoServiceTest using Java 1.8.0_342 on NITISH-PC with PID 1176 (started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-09-05 15:10:09 [Test worker] DEBUG r.r.service.UserInfoServiceTest -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-09-05 15:10:09 [Test worker] INFO  r.r.service.UserInfoServiceTest -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-09-05 15:10:25 [Test worker] INFO  r.r.service.UserInfoServiceTest -
+                Started UserInfoServiceTest in 16.247 seconds (JVM running for 20.423)
+2023-09-05 15:28:45 [Test worker] INFO  r.r.service.UserInfoServiceTest -
+                Starting UserInfoServiceTest using Java 1.8.0_342 on NITISH-PC with PID 15084 (started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-09-05 15:28:45 [Test worker] DEBUG r.r.service.UserInfoServiceTest -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-09-05 15:28:45 [Test worker] INFO  r.r.service.UserInfoServiceTest -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-09-05 15:29:01 [Test worker] INFO  r.r.service.UserInfoServiceTest -
+                Started UserInfoServiceTest in 16.288 seconds (JVM running for 19.83)
+2023-09-05 15:29:22 [Test worker] INFO  r.r.service.UserInfoServiceImplTest -
+                Starting UserInfoServiceImplTest using Java 1.8.0_342 on NITISH-PC with PID 9468 (started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-09-05 15:29:22 [Test worker] DEBUG r.r.service.UserInfoServiceImplTest -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-09-05 15:29:22 [Test worker] INFO  r.r.service.UserInfoServiceImplTest -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-09-05 15:29:37 [Test worker] INFO  r.r.service.UserInfoServiceImplTest -
+                Started UserInfoServiceImplTest in 15.994 seconds (JVM running for 19.728)
+2023-09-05 15:35:49 [Test worker] INFO  r.r.service.UserInfoServiceTest -
+                Starting UserInfoServiceTest using Java 1.8.0_342 on NITISH-PC with PID 7568 (started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-09-05 15:35:49 [Test worker] DEBUG r.r.service.UserInfoServiceTest -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-09-05 15:35:49 [Test worker] INFO  r.r.service.UserInfoServiceTest -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-09-05 15:36:03 [Test worker] INFO  r.r.service.UserInfoServiceTest -
+                Started UserInfoServiceTest in 15.147 seconds (JVM running for 19.008)
+2023-09-05 15:42:06 [Test worker] INFO  r.r.service.UserInfoServiceImplTest -
+                Starting UserInfoServiceImplTest using Java 1.8.0_342 on NITISH-PC with PID 2120 (started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-09-05 15:42:06 [Test worker] DEBUG r.r.service.UserInfoServiceImplTest -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-09-05 15:42:06 [Test worker] INFO  r.r.service.UserInfoServiceImplTest -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-09-05 15:42:22 [Test worker] INFO  r.r.service.UserInfoServiceImplTest -
+                Started UserInfoServiceImplTest in 16.036 seconds (JVM running for 19.467)
+2023-09-05 17:47:04 [Test worker] INFO  restful.restful.service.CrudUnitTest -
+                Starting CrudUnitTest using Java 1.8.0_342 on NITISH-PC with PID 9220 (started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-09-05 17:47:04 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-09-05 17:47:04 [Test worker] INFO  restful.restful.service.CrudUnitTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-09-05 17:47:11 [Test worker] INFO  restful.restful.service.CrudUnitTest -
+                Starting CrudUnitTest using Java 1.8.0_342 on NITISH-PC with PID 9220 (started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-09-05 17:47:11 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-09-05 17:47:11 [Test worker] INFO  restful.restful.service.CrudUnitTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-09-05 17:52:53 [Test worker] INFO  restful.restful.service.CrudUnitTest -
+                Starting CrudUnitTest using Java 1.8.0_342 on NITISH-PC with PID 13412 (started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-09-05 17:52:53 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-09-05 17:52:53 [Test worker] INFO  restful.restful.service.CrudUnitTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-09-05 17:53:07 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
+                Filter 'jwtAuthFilter' configured for use
+2023-09-05 17:54:35 [Test worker] INFO  restful.restful.service.CrudUnitTest -
+                Starting CrudUnitTest using Java 1.8.0_342 on NITISH-PC with PID 3052 (started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-09-05 17:54:35 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-09-05 17:54:35 [Test worker] INFO  restful.restful.service.CrudUnitTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-09-05 17:54:48 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
+                Filter 'jwtAuthFilter' configured for use
+2023-09-05 17:54:55 [Test worker] INFO  restful.restful.service.CrudUnitTest -
+                Starting CrudUnitTest using Java 1.8.0_342 on NITISH-PC with PID 3052 (started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-09-05 17:54:55 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-09-05 17:54:55 [Test worker] INFO  restful.restful.service.CrudUnitTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-09-05 17:54:58 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
+                Filter 'jwtAuthFilter' configured for use
+2023-09-05 18:03:28 [Test worker] INFO  restful.restful.service.CrudUnitTest -
+                Starting CrudUnitTest using Java 1.8.0_342 on NITISH-PC with PID 1128 (started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-09-05 18:03:28 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-09-05 18:03:28 [Test worker] INFO  restful.restful.service.CrudUnitTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-09-05 18:03:47 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
+                Filter 'jwtAuthFilter' configured for use
+2023-09-05 18:03:59 [Test worker] INFO  restful.restful.service.CrudUnitTest -
+                Starting CrudUnitTest using Java 1.8.0_342 on NITISH-PC with PID 1128 (started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-09-05 18:03:59 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-09-05 18:03:59 [Test worker] INFO  restful.restful.service.CrudUnitTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-09-05 18:04:02 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
+                Filter 'jwtAuthFilter' configured for use
+2023-09-05 18:04:56 [Test worker] INFO  restful.restful.service.CrudUnitTest -
+                Starting CrudUnitTest using Java 1.8.0_342 on NITISH-PC with PID 15636 (started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-09-05 18:04:56 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-09-05 18:04:56 [Test worker] INFO  restful.restful.service.CrudUnitTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-09-05 18:05:09 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
+                Filter 'jwtAuthFilter' configured for use
+2023-09-05 18:05:15 [Test worker] INFO  restful.restful.service.CrudUnitTest -
+                Starting CrudUnitTest using Java 1.8.0_342 on NITISH-PC with PID 15636 (started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-09-05 18:05:15 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-09-05 18:05:15 [Test worker] INFO  restful.restful.service.CrudUnitTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-09-05 18:05:17 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
+                Filter 'jwtAuthFilter' configured for use
+2023-09-05 18:11:21 [Test worker] INFO  restful.restful.service.CrudUnitTest -
+                Starting CrudUnitTest using Java 1.8.0_342 on NITISH-PC with PID 16144 (started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-09-05 18:11:21 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-09-05 18:11:21 [Test worker] INFO  restful.restful.service.CrudUnitTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-09-05 18:11:35 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
+                Filter 'jwtAuthFilter' configured for use
+2023-09-05 18:11:41 [Test worker] INFO  restful.restful.service.CrudUnitTest -
+                Starting CrudUnitTest using Java 1.8.0_342 on NITISH-PC with PID 16144 (started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-09-05 18:11:41 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-09-05 18:11:41 [Test worker] INFO  restful.restful.service.CrudUnitTest -
+                No active profile set, falling back to 1 default profile: "default"
+2023-09-05 18:11:44 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
+                Filter 'jwtAuthFilter' configured for use

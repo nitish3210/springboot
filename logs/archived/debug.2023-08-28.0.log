@@ -1,0 +1,72 @@
+2023-08-28 11:22:53 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 1.8.0_342 on NITISH-PC with PID 2764 (C:\Users\nitis\Downloads\restful\restful\build\classes\java\main started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-08-28 11:22:53 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-08-28 11:22:53 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-08-28 11:23:03 [main] DEBUG restful.restful.filter.JwtAuthFilter -
+                Filter 'jwtAuthFilter' configured for use
+2023-08-28 11:23:06 [main] INFO  restful.restful.RestfulApplication -
+                Started RestfulApplication in 14.265 seconds (JVM running for 15.599)
+2023-08-28 11:24:46 [http-nio-8080-exec-1] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.UserInfoAPI authenticateAndGetToken()Arguments [{"userName":"nitish","password":"password"}]
+2023-08-28 11:24:47 [http-nio-8080-exec-1] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.UserInfoAPI authenticateAndGetToken()Response "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuaXRpc2giLCJpYXQiOjE2OTMyMDIwODcsImV4cCI6MTY5MzIwMzg4N30.Kqvmr2OYUzKAyVIAeWypgL_1Wy5li1zBWjSiFlSGA4U"
+2023-08-28 11:25:11 [http-nio-8080-exec-3] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeApi getEmployee()Arguments [6]
+2023-08-28 11:25:11 [http-nio-8080-exec-3] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeServiceImpl getEmployee()Arguments [6]
+2023-08-28 11:25:11 [http-nio-8080-exec-3] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.EmployeeServiceImpl getEmployee()Response null
+2023-08-28 11:44:25 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 1.8.0_342 on NITISH-PC with PID 7344 (C:\Users\nitis\Downloads\restful\restful\build\classes\java\main started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-08-28 11:44:25 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-08-28 11:44:25 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-08-28 11:44:41 [main] DEBUG restful.restful.filter.JwtAuthFilter -
+                Filter 'jwtAuthFilter' configured for use
+2023-08-28 11:44:47 [main] INFO  restful.restful.RestfulApplication -
+                Started RestfulApplication in 23.904 seconds (JVM running for 26.572)
+2023-08-28 11:47:42 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 1.8.0_342 on NITISH-PC with PID 6524 (C:\Users\nitis\Downloads\restful\restful\build\classes\java\main started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-08-28 11:47:42 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-08-28 11:47:42 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-08-28 11:47:59 [main] DEBUG restful.restful.filter.JwtAuthFilter -
+                Filter 'jwtAuthFilter' configured for use
+2023-08-28 11:51:10 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 1.8.0_342 on NITISH-PC with PID 12680 (C:\Users\nitis\Downloads\restful\restful\build\classes\java\main started by nitis in C:\Users\nitis\Downloads\restful\restful)
+2023-08-28 11:51:10 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-08-28 11:51:10 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-08-28 11:51:34 [main] DEBUG restful.restful.filter.JwtAuthFilter -
+                Filter 'jwtAuthFilter' configured for use
+2023-08-28 11:51:42 [main] INFO  restful.restful.RestfulApplication -
+                Started RestfulApplication in 32.65 seconds (JVM running for 34.497)
+2023-08-28 11:54:16 [http-nio-8080-exec-3] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeApi getEmployee()Arguments [6]
+2023-08-28 11:54:16 [http-nio-8080-exec-3] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeServiceImpl getEmployee()Arguments [6]
+2023-08-28 11:54:17 [http-nio-8080-exec-3] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.EmployeeServiceImpl getEmployee()Response null
+2023-08-28 11:55:53 [http-nio-8080-exec-10] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.UserInfoAPI authenticateAndGetToken()Arguments [{"userName":"nitish","password":"password"}]
+2023-08-28 11:55:54 [http-nio-8080-exec-10] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.UserInfoAPI authenticateAndGetToken()Response "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuaXRpc2giLCJpYXQiOjE2OTMyMDM5NTQsImV4cCI6MTY5MzIwNTc1NH0.JnQ3KZ2seSWjqzxDG6OqOCdxpIhnPTfioDHNYaXbIYI"
+2023-08-28 11:56:08 [http-nio-8080-exec-2] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeApi getEmployee()Arguments [6]
+2023-08-28 11:56:08 [http-nio-8080-exec-2] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeServiceImpl getEmployee()Arguments [6]
+2023-08-28 11:56:08 [http-nio-8080-exec-2] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.EmployeeServiceImpl getEmployee()Response null
+2023-08-28 11:56:14 [http-nio-8080-exec-4] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeApi getEmployee()Arguments [5]
+2023-08-28 11:56:14 [http-nio-8080-exec-4] INFO  restful.restful.aop.LoggingAspect -
+                Method Invoked class restful.restful.EmployeeServiceImpl getEmployee()Arguments [5]
+2023-08-28 11:56:14 [http-nio-8080-exec-4] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.EmployeeServiceImpl getEmployee()Response {"id":5,"firstname":"Jh0n","lastName":"Dew","email":"John@gmail.com"}
+2023-08-28 11:56:14 [http-nio-8080-exec-4] INFO  restful.restful.aop.LoggingAspect -
+                class restful.restful.EmployeeApi getEmployee()Response {"headers":{},"body":{"id":5,"firstname":"Jh0n","lastName":"Dew","email":"John@gmail.com"},"statusCode":"CREATED","statusCodeValue":201}
