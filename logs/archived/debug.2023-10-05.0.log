@@ -1,0 +1,30 @@
+2023-10-05 10:12:49 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 17.0.8.1 on CHLAPDNITISHM with PID 6424 (C:\Users\rr420476\Downloads\springboot\bin\main started by rr420476 in C:\Users\rr420476\Downloads\springboot)
+2023-10-05 10:12:49 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-10-05 10:12:49 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-10-05 10:14:44 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 17.0.8.1 on CHLAPDNITISHM with PID 12244 (C:\Users\rr420476\Downloads\springboot\bin\main started by rr420476 in C:\Users\rr420476\Downloads\springboot)
+2023-10-05 10:14:44 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-10-05 10:14:44 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-10-05 11:20:10 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 18.0.2.1 on CHLAPDNITISHM with PID 6996 (C:\Users\rr420476\Downloads\springboot\bin\main started by rr420476 in C:\Users\rr420476\Downloads\springboot)
+2023-10-05 11:20:10 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-10-05 11:20:10 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-10-05 11:29:39 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 18.0.2.1 on CHLAPDNITISHM with PID 492 (C:\Users\rr420476\Downloads\springboot\bin\main started by rr420476 in C:\Users\rr420476\Downloads\springboot)
+2023-10-05 11:29:39 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-10-05 11:29:39 [main] INFO  restful.restful.RestfulApplication -
+                The following 1 profile is active: "dev"
+2023-10-05 23:36:25 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 18.0.2 on CHLAPDNITISHM with PID 18472 (C:\Users\rr420476\Downloads\springboot\build\classes\java\main started by rr420476 in C:\Users\rr420476\Downloads\springboot)
+2023-10-05 23:36:25 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-10-05 23:36:25 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"

@@ -1,0 +1,16 @@
+2023-10-06 00:01:56 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 18.0.2 on CHLAPDNITISHM with PID 14840 (C:\Users\rr420476\Downloads\springboot\build\classes\java\main started by rr420476 in C:\Users\rr420476\Downloads\springboot)
+2023-10-06 00:01:56 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-10-06 00:01:56 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-10-06 12:40:04 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 18.0.2 on CHLAPDNITISHM with PID 12516 (C:\Users\rr420476\Downloads\springboot\build\classes\java\main started by rr420476 in C:\Users\rr420476\Downloads\springboot)
+2023-10-06 12:40:04 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2023-10-06 12:40:04 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2023-10-06 12:40:08 [main] DEBUG restful.restful.filter.JwtAuthFilter -
+                Filter 'jwtAuthFilter' configured for use
+2023-10-06 12:40:09 [main] INFO  restful.restful.RestfulApplication -
+                Started RestfulApplication in 6.057 seconds (JVM running for 6.668)
