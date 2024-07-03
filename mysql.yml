@@ -43,6 +43,12 @@
 #      port: 27017
 #      targetPort: 27017
 
+#  mysql> CREATE USER 'root'@'10.244.0.41' IDENTIFIED BY 'nitish@123';
+#  Query OK, 0 rows affected (0.04 sec)
+#
+#  mysql> GRANT ALL PRIVILEGES ON *.* TO 'root'@'10.244.0.41' WITH GRANT OPTION;
+#  Query OK, 0 rows affected (0.01 sec)
+
 
 # Define a 'Persistent Voulume Claim'(PVC) for Mysql Storage, dynamically provisioned by cluster
 apiVersion: v1
@@ -80,10 +86,17 @@ spec:
         app: mysql
         tier: database
     spec:
+      initContainers:
+        - name: init-mysql #For a new MySQL deployment, you might want to ensure the database initializes correctly within the pod. You can do this by running an init container or by manually ensuring the data directory is empty before starting the main MySQL container.
+          image: mysql:8.4.0
+          command: [ "sh", "-c", "rm -rf /var/lib/mysql/* && mysqld --initialize-insecure --user=mysql" ]
+          volumeMounts:
+            - name: mysql-persistent-storage
+              mountPath: /var/lib/mysql
       containers:
         - image: mysql:8.4.0 # image from docker-hub
-          args:
-            - "--ignore-db-dir=lost+found" # Workaround for https://github.com/docker-library/mysql/issues/186
+#          args:
+#            - "--ignore-db-dir=lost+found" # Workaround for https://github.com/docker-library/mysql/issues/186
           name: mysql
           env:
             - name: MYSQL_ROOT_PASSWORD

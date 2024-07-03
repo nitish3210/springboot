@@ -66,7 +66,8 @@ spec:
     spec:
       containers:
         - name: restful
-          image: restful
+          image: restful:v3
+          imagePullPolicy: Never
           ports:
             - containerPort: 8080
           env:   # Setting Enviornmental Variables
