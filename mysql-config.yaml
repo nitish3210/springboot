@@ -1,6 +1,14 @@
-apiVersion: v1
-kind: ConfigMap
+#apiVersion: v1
+#kind: ConfigMap
+#metadata:
+#  name: mysql-config
+#data:
+#  mysql-url: mysql-service
+
+apiVersion : v1
+kind : ConfigMap
 metadata:
-  name: mysql-config
+  name : db-config
 data:
-  mysql-url: mysql-service
+  host : mysql
+  dbName: employee

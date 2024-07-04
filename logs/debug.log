@@ -1,168 +1,22 @@
-2024-06-06 10:19:17 [main] INFO  restful.restful.RestfulApplication -
-                Starting RestfulApplication using Java 18.0.2 on CHLAPDNITISHM with PID 18080 (C:\Users\rr420476\Downloads\springboot\build\classes\java\main started by rr420476 in C:\Users\rr420476\Downloads\springboot)
-2024-06-06 10:19:17 [main] DEBUG restful.restful.RestfulApplication -
+2024-06-26 14:30:31 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 19.0.2 on Nitishs-MacBook-Air.local with PID 30743 (/Users/nitishmac/springboot/build/classes/java/main started by nitishmac in /Users/nitishmac/springboot)
+2024-06-26 14:30:31 [main] DEBUG restful.restful.RestfulApplication -
                 Running with Spring Boot v2.7.14, Spring v5.3.29
-2024-06-06 10:19:17 [main] INFO  restful.restful.RestfulApplication -
+2024-06-26 14:30:31 [main] INFO  restful.restful.RestfulApplication -
                 The following 3 profiles are active: "prod", "dev", "local"
-2024-06-06 10:19:22 [main] DEBUG restful.restful.filter.JwtAuthFilter -
+2024-06-26 14:30:32 [main] DEBUG restful.restful.filter.JwtAuthFilter -
                 Filter 'jwtAuthFilter' configured for use
-2024-06-06 10:19:23 [main] INFO  restful.restful.RestfulApplication -
-                Started RestfulApplication in 6.956 seconds (JVM running for 7.751)
-2024-06-06 14:26:44 [Test worker] INFO  r.restful.RestfulApplicationTests -
-                Starting RestfulApplicationTests using Java 18.0.2.1 on CHLAPDNITISHM with PID 2108 (started by rr420476 in C:\Users\rr420476\Downloads\springboot)
-2024-06-06 14:26:44 [Test worker] DEBUG r.restful.RestfulApplicationTests -
+2024-06-26 14:30:33 [main] INFO  restful.restful.RestfulApplication -
+                Started RestfulApplication in 7.014 seconds (JVM running for 7.314)
+2024-06-26 18:26:37 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 19.0.2 on Nitishs-MacBook-Air.local with PID 36902 (/Users/nitishmac/springboot/build/classes/java/main started by nitishmac in /Users/nitishmac/springboot)
+2024-06-26 18:26:37 [main] DEBUG restful.restful.RestfulApplication -
                 Running with Spring Boot v2.7.14, Spring v5.3.29
-2024-06-06 14:26:44 [Test worker] INFO  r.restful.RestfulApplicationTests -
-                No active profile set, falling back to 1 default profile: "default"
-2024-06-06 14:26:52 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                Starting CrudUnitTest using Java 18.0.2.1 on CHLAPDNITISHM with PID 2108 (started by rr420476 in C:\Users\rr420476\Downloads\springboot)
-2024-06-06 14:26:52 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
+2024-06-26 18:26:37 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2024-06-26 19:34:15 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 19.0.2 on Nitishs-MacBook-Air.local with PID 39412 (/Users/nitishmac/springboot/build/classes/java/main started by nitishmac in /Users/nitishmac/springboot)
+2024-06-26 19:34:15 [main] DEBUG restful.restful.RestfulApplication -
                 Running with Spring Boot v2.7.14, Spring v5.3.29
-2024-06-06 14:26:52 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                No active profile set, falling back to 1 default profile: "default"
-2024-06-06 14:26:54 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
-                Filter 'jwtAuthFilter' configured for use
-2024-06-06 14:26:55 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                Starting CrudUnitTest using Java 18.0.2.1 on CHLAPDNITISHM with PID 2108 (started by rr420476 in C:\Users\rr420476\Downloads\springboot)
-2024-06-06 14:26:55 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
-                Running with Spring Boot v2.7.14, Spring v5.3.29
-2024-06-06 14:26:55 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                No active profile set, falling back to 1 default profile: "default"
-2024-06-06 14:26:56 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
-                Filter 'jwtAuthFilter' configured for use
-2024-06-06 14:26:57 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                Starting CrudUnitTest using Java 18.0.2.1 on CHLAPDNITISHM with PID 2108 (started by rr420476 in C:\Users\rr420476\Downloads\springboot)
-2024-06-06 14:26:57 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
-                Running with Spring Boot v2.7.14, Spring v5.3.29
-2024-06-06 14:26:57 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                No active profile set, falling back to 1 default profile: "default"
-2024-06-06 14:26:59 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
-                Filter 'jwtAuthFilter' configured for use
-2024-06-06 14:27:01 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                Starting CrudUnitTest using Java 18.0.2.1 on CHLAPDNITISHM with PID 2108 (started by rr420476 in C:\Users\rr420476\Downloads\springboot)
-2024-06-06 14:27:01 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
-                Running with Spring Boot v2.7.14, Spring v5.3.29
-2024-06-06 14:27:01 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                No active profile set, falling back to 1 default profile: "default"
-2024-06-06 14:27:02 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
-                Filter 'jwtAuthFilter' configured for use
-2024-06-06 14:27:04 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                Starting CrudUnitTest using Java 18.0.2.1 on CHLAPDNITISHM with PID 2108 (started by rr420476 in C:\Users\rr420476\Downloads\springboot)
-2024-06-06 14:27:04 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
-                Running with Spring Boot v2.7.14, Spring v5.3.29
-2024-06-06 14:27:04 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                No active profile set, falling back to 1 default profile: "default"
-2024-06-06 14:27:06 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
-                Filter 'jwtAuthFilter' configured for use
-2024-06-06 14:27:07 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                Starting CrudUnitTest using Java 18.0.2.1 on CHLAPDNITISHM with PID 2108 (started by rr420476 in C:\Users\rr420476\Downloads\springboot)
-2024-06-06 14:27:07 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
-                Running with Spring Boot v2.7.14, Spring v5.3.29
-2024-06-06 14:27:07 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                No active profile set, falling back to 1 default profile: "default"
-2024-06-06 14:27:09 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
-                Filter 'jwtAuthFilter' configured for use
-2024-06-06 14:27:11 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                Starting CrudUnitTest using Java 18.0.2.1 on CHLAPDNITISHM with PID 2108 (started by rr420476 in C:\Users\rr420476\Downloads\springboot)
-2024-06-06 14:27:11 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
-                Running with Spring Boot v2.7.14, Spring v5.3.29
-2024-06-06 14:27:11 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                No active profile set, falling back to 1 default profile: "default"
-2024-06-06 14:27:12 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
-                Filter 'jwtAuthFilter' configured for use
-2024-06-06 14:27:14 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                Starting CrudUnitTest using Java 18.0.2.1 on CHLAPDNITISHM with PID 2108 (started by rr420476 in C:\Users\rr420476\Downloads\springboot)
-2024-06-06 14:27:14 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
-                Running with Spring Boot v2.7.14, Spring v5.3.29
-2024-06-06 14:27:14 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                No active profile set, falling back to 1 default profile: "default"
-2024-06-06 14:27:15 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
-                Filter 'jwtAuthFilter' configured for use
-2024-06-06 14:27:17 [Test worker] INFO  r.r.service.UserInfoServiceTest -
-                Starting UserInfoServiceTest using Java 18.0.2.1 on CHLAPDNITISHM with PID 2108 (started by rr420476 in C:\Users\rr420476\Downloads\springboot)
-2024-06-06 14:27:17 [Test worker] DEBUG r.r.service.UserInfoServiceTest -
-                Running with Spring Boot v2.7.14, Spring v5.3.29
-2024-06-06 14:27:17 [Test worker] INFO  r.r.service.UserInfoServiceTest -
-                No active profile set, falling back to 1 default profile: "default"
-2024-06-06 14:32:00 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                Starting CrudUnitTest using Java 18.0.2.1 on CHLAPDNITISHM with PID 23048 (started by rr420476 in C:\Users\rr420476\Downloads\springboot)
-2024-06-06 14:32:00 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
-                Running with Spring Boot v2.7.14, Spring v5.3.29
-2024-06-06 14:32:00 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                No active profile set, falling back to 1 default profile: "default"
-2024-06-06 14:32:06 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
-                Filter 'jwtAuthFilter' configured for use
-2024-06-06 14:32:08 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                Starting CrudUnitTest using Java 18.0.2.1 on CHLAPDNITISHM with PID 23048 (started by rr420476 in C:\Users\rr420476\Downloads\springboot)
-2024-06-06 14:32:08 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
-                Running with Spring Boot v2.7.14, Spring v5.3.29
-2024-06-06 14:32:08 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                No active profile set, falling back to 1 default profile: "default"
-2024-06-06 14:32:09 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
-                Filter 'jwtAuthFilter' configured for use
-2024-06-06 14:32:10 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                Starting CrudUnitTest using Java 18.0.2.1 on CHLAPDNITISHM with PID 23048 (started by rr420476 in C:\Users\rr420476\Downloads\springboot)
-2024-06-06 14:32:10 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
-                Running with Spring Boot v2.7.14, Spring v5.3.29
-2024-06-06 14:32:10 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                No active profile set, falling back to 1 default profile: "default"
-2024-06-06 14:32:11 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
-                Filter 'jwtAuthFilter' configured for use
-2024-06-06 14:32:12 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                Starting CrudUnitTest using Java 18.0.2.1 on CHLAPDNITISHM with PID 23048 (started by rr420476 in C:\Users\rr420476\Downloads\springboot)
-2024-06-06 14:32:12 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
-                Running with Spring Boot v2.7.14, Spring v5.3.29
-2024-06-06 14:32:12 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                No active profile set, falling back to 1 default profile: "default"
-2024-06-06 14:32:13 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
-                Filter 'jwtAuthFilter' configured for use
-2024-06-06 14:32:14 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                Starting CrudUnitTest using Java 18.0.2.1 on CHLAPDNITISHM with PID 23048 (started by rr420476 in C:\Users\rr420476\Downloads\springboot)
-2024-06-06 14:32:14 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
-                Running with Spring Boot v2.7.14, Spring v5.3.29
-2024-06-06 14:32:14 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                No active profile set, falling back to 1 default profile: "default"
-2024-06-06 14:32:15 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
-                Filter 'jwtAuthFilter' configured for use
-2024-06-06 14:32:15 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                Starting CrudUnitTest using Java 18.0.2.1 on CHLAPDNITISHM with PID 23048 (started by rr420476 in C:\Users\rr420476\Downloads\springboot)
-2024-06-06 14:32:15 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
-                Running with Spring Boot v2.7.14, Spring v5.3.29
-2024-06-06 14:32:15 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                No active profile set, falling back to 1 default profile: "default"
-2024-06-06 14:32:16 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
-                Filter 'jwtAuthFilter' configured for use
-2024-06-06 14:32:17 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                Starting CrudUnitTest using Java 18.0.2.1 on CHLAPDNITISHM with PID 23048 (started by rr420476 in C:\Users\rr420476\Downloads\springboot)
-2024-06-06 14:32:17 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
-                Running with Spring Boot v2.7.14, Spring v5.3.29
-2024-06-06 14:32:17 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                No active profile set, falling back to 1 default profile: "default"
-2024-06-06 14:32:17 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
-                Filter 'jwtAuthFilter' configured for use
-2024-06-06 14:32:18 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                Starting CrudUnitTest using Java 18.0.2.1 on CHLAPDNITISHM with PID 23048 (started by rr420476 in C:\Users\rr420476\Downloads\springboot)
-2024-06-06 14:32:18 [Test worker] DEBUG restful.restful.service.CrudUnitTest -
-                Running with Spring Boot v2.7.14, Spring v5.3.29
-2024-06-06 14:32:18 [Test worker] INFO  restful.restful.service.CrudUnitTest -
-                No active profile set, falling back to 1 default profile: "default"
-2024-06-06 14:32:19 [Test worker] DEBUG restful.restful.filter.JwtAuthFilter -
-                Filter 'jwtAuthFilter' configured for use
-2024-06-06 14:32:19 [Test worker] INFO  r.r.service.UserInfoServiceTest -
-                Starting UserInfoServiceTest using Java 18.0.2.1 on CHLAPDNITISHM with PID 23048 (started by rr420476 in C:\Users\rr420476\Downloads\springboot)
-2024-06-06 14:32:19 [Test worker] DEBUG r.r.service.UserInfoServiceTest -
-                Running with Spring Boot v2.7.14, Spring v5.3.29
-2024-06-06 14:32:19 [Test worker] INFO  r.r.service.UserInfoServiceTest -
-                No active profile set, falling back to 1 default profile: "default"
-2024-06-06 14:34:08 [Test worker] INFO  r.restful.RestfulApplicationTests -
-                Starting RestfulApplicationTests using Java 18.0.2.1 on CHLAPDNITISHM with PID 22948 (started by rr420476 in C:\Users\rr420476\Downloads\springboot)
-2024-06-06 14:34:08 [Test worker] DEBUG r.restful.RestfulApplicationTests -
-                Running with Spring Boot v2.7.14, Spring v5.3.29
-2024-06-06 14:34:08 [Test worker] INFO  r.restful.RestfulApplicationTests -
-                No active profile set, falling back to 1 default profile: "default"
-2024-06-06 14:34:43 [Test worker] INFO  r.restful.RestfulApplicationTests -
-                Starting RestfulApplicationTests using Java 18.0.2.1 on CHLAPDNITISHM with PID 19852 (started by rr420476 in C:\Users\rr420476\Downloads\springboot)
-2024-06-06 14:34:43 [Test worker] DEBUG r.restful.RestfulApplicationTests -
-                Running with Spring Boot v2.7.14, Spring v5.3.29
-2024-06-06 14:34:43 [Test worker] INFO  r.restful.RestfulApplicationTests -
-                No active profile set, falling back to 1 default profile: "default"
+2024-06-26 19:34:15 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"

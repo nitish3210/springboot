@@ -1,0 +1,58 @@
+2024-06-23 15:53:34 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 19.0.2 on Nitishs-MacBook-Air.local with PID 20651 (/Users/nitishmac/springboot/build/classes/java/main started by nitishmac in /Users/nitishmac/springboot)
+2024-06-23 15:53:34 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2024-06-23 15:53:34 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2024-06-23 15:54:58 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 19.0.2 on Nitishs-MacBook-Air.local with PID 20669 (/Users/nitishmac/springboot/build/classes/java/main started by nitishmac in /Users/nitishmac/springboot)
+2024-06-23 15:54:58 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2024-06-23 15:54:58 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2024-06-23 16:06:44 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 19.0.2 on Nitishs-MacBook-Air.local with PID 20777 (/Users/nitishmac/springboot/build/classes/java/main started by nitishmac in /Users/nitishmac/springboot)
+2024-06-23 16:06:44 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2024-06-23 16:06:44 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2024-06-23 16:08:02 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 19.0.2 on Nitishs-MacBook-Air.local with PID 20798 (/Users/nitishmac/springboot/build/classes/java/main started by nitishmac in /Users/nitishmac/springboot)
+2024-06-23 16:08:02 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2024-06-23 16:08:02 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2024-06-23 16:09:41 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 19.0.2 on Nitishs-MacBook-Air.local with PID 20823 (/Users/nitishmac/springboot/build/classes/java/main started by nitishmac in /Users/nitishmac/springboot)
+2024-06-23 16:09:41 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2024-06-23 16:09:41 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2024-06-23 16:11:03 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 19.0.2 on Nitishs-MacBook-Air.local with PID 20849 (/Users/nitishmac/springboot/build/classes/java/main started by nitishmac in /Users/nitishmac/springboot)
+2024-06-23 16:11:03 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2024-06-23 16:11:03 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2024-06-23 16:15:18 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 19.0.2 on Nitishs-MacBook-Air.local with PID 20885 (/Users/nitishmac/springboot/build/classes/java/main started by nitishmac in /Users/nitishmac/springboot)
+2024-06-23 16:15:18 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2024-06-23 16:15:18 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2024-06-23 23:44:59 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 19.0.2 on Nitishs-MacBook-Air.local with PID 22753 (/Users/nitishmac/springboot/build/classes/java/main started by nitishmac in /Users/nitishmac/springboot)
+2024-06-23 23:44:59 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2024-06-23 23:44:59 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2024-06-23 23:46:45 [main] INFO  restful.restful.RestfulApplication -
+                Starting RestfulApplication using Java 19.0.2 on Nitishs-MacBook-Air.local with PID 22777 (/Users/nitishmac/springboot/build/classes/java/main started by nitishmac in /Users/nitishmac/springboot)
+2024-06-23 23:46:45 [main] DEBUG restful.restful.RestfulApplication -
+                Running with Spring Boot v2.7.14, Spring v5.3.29
+2024-06-23 23:46:45 [main] INFO  restful.restful.RestfulApplication -
+                The following 3 profiles are active: "prod", "dev", "local"
+2024-06-23 23:46:46 [main] DEBUG restful.restful.filter.JwtAuthFilter -
+                Filter 'jwtAuthFilter' configured for use
+2024-06-23 23:46:47 [main] INFO  restful.restful.RestfulApplication -
+                Started RestfulApplication in 6.872 seconds (JVM running for 7.106)
